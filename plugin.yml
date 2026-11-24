@@ -1,0 +1,11 @@
+name: WorldGenerator
+version: 1.1.0
+main: WorldGenerator\WorldGenerator
+api: 5.0.0
+depend: [FormAPI]
+author: Zubludok
+description: Гибкий генератор мира. Полностью завершена предгенерация (неоткалиброванна). Добавлен перевод.
+
+permissions:
+  worldgenerator.command:
+    default: op

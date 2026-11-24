@@ -1,0 +1,4 @@
+commands:
+  genworld:
+    description: "Открыть меню генерации мира"
+    usage: "/genworld"
